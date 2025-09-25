@@ -27,8 +27,8 @@ This project demonstrates **OOP concepts** such as classes, objects, encapsulati
 
 ### 1. Clone / Download the project
 ```bash
-git clone https://github.com/your-username/atm-system-java.git
-cd atm-system-java
+git clone https://github.com/Bhavika-Dommeti1826/ATMSystem.git
+cd ATMSystem
 ````
 
 ### 2. Compile the program
